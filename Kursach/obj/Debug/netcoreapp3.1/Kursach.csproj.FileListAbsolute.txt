@@ -1,0 +1,13 @@
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\bin\Debug\netcoreapp3.1\Kursach.exe
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\bin\Debug\netcoreapp3.1\Kursach.deps.json
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\bin\Debug\netcoreapp3.1\Kursach.runtimeconfig.json
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\bin\Debug\netcoreapp3.1\Kursach.runtimeconfig.dev.json
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\bin\Debug\netcoreapp3.1\Kursach.dll
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\bin\Debug\netcoreapp3.1\Kursach.pdb
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\obj\Debug\netcoreapp3.1\Kursach.csprojAssemblyReference.cache
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\obj\Debug\netcoreapp3.1\Kursach.AssemblyInfoInputs.cache
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\obj\Debug\netcoreapp3.1\Kursach.AssemblyInfo.cs
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\obj\Debug\netcoreapp3.1\Kursach.csproj.CoreCompileInputs.cache
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\obj\Debug\netcoreapp3.1\Kursach.dll
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\obj\Debug\netcoreapp3.1\Kursach.pdb
+D:\MyDevelop\VS\Nekit\Kursach\Kursach\obj\Debug\netcoreapp3.1\Kursach.genruntimeconfig.cache
